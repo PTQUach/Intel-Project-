@@ -123,8 +123,6 @@ Result: [Califronia and NorthWest.xlsx](https://github.com/user-attachments/file
 
 ![Screenshot 2024-07-10 140141](https://github.com/PTQUach/Intel-Project-/assets/174752650/91147512-d985-4f1a-a184-4ea79b08311c)
 
-![Screenshot 2024-07-10 140124](https://github.com/PTQUach/Intel-Project-/assets/174752650/79dbf9e4-8e1d-437d-88a8-a60391f8db50)
-
 ![California and NorthWest](https://github.com/PTQUach/Intel-Project-/assets/174752650/2984b171-4ce0-44f5-ab08-5fddebeb675d)
 
 
